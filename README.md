@@ -1,5 +1,5 @@
 # couvator
-Couvator for eggs | Esp8266 DS18B20 Little oven and fan
+Couvator for eggs | Esp8266, DS18B20, Relay board, Little oven and fan | Arduino
 
 This project create a couvator for egg, he controls and mixed temperature an oven with DS18B20 temperature sensors and relays for activate/desactivate oven resistor, and fan inside oven.
 
